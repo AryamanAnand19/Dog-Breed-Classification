@@ -1,2 +1,1 @@
-# Dog breed classification - Aryaman and Rohith Parahmesh
-Team-592310
+# Dog breed classification - Aryaman Anand
