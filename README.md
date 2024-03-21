@@ -1,2 +1,2 @@
-# Dog-Breed-Classification
-Dog Breed Classification AI-ML project !
+# Dog breed classification - Aryaman and Rohith Parahmesh
+Team-592310
